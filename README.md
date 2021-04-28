@@ -1,5 +1,5 @@
 - 👋 Hallo, Nama saya Khoir [@Mabzak-Knight]
-- 👀 Keahlian bidang Website
+- 👀 Keahlian bidang Website, Desain Logo dan Brosur
 - 🌱 Memiliki Pengalaman Mengelolah Cpanel, OJS (Open Journal System), LMS (Moodle)
 - 💞️ Pengalaman saya:
      Memperbaiki LMS/OJS STMIK Pringsewu, LMS/OJS STIE Trisna Negara, Website/OJS STIT Al Mutazam,
