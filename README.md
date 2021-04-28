@@ -1,4 +1,4 @@
-- 👋 Hallo, saya @Mabzak-Knight
+- 👋 Hallo, Nama saya Khoir [@Mabzak-Knight]
 - 👀 Keahlian bidang Website
 - 🌱 Memiliki Pengalaman Mengelolah Cpanel, OJS (Open Journal System), LMS (Moodle)
 - 💞️ Pengalaman saya:
