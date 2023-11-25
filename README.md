@@ -1,9 +1,9 @@
 - 👋 Hallo, Nama saya Khoir [@Mabzak-Knight]
-- 👀 Keahlian bidang Website, Desain Logo dan Brosur
-- 🌱 Memiliki Pengalaman Mengelolah Cpanel, OJS (Open Journal System), LMS (Moodle)
+- 👀 Keahlian pengalaman Website, IoT, Python, Desain Logo dan Brosur, Bahasa pemograman yang diahlikan html, js, css, python, gml, arduino
+- 🌱 Memiliki sartifikat BNSP Desain Grafis & Programer
 - 💞️ Pengalaman saya:
-     Memperbaiki LMS/OJS STMIK Pringsewu, LMS/OJS STIE Trisna Negara, Website/OJS STIT Al Mutazam,
-     Website/OJS STIE Lampung Timur, Jurnalitbang Pringsewu, Scracademik, OJS STEBI Tanggamus, Mengelolah Chanel Youtube Ruangilmudigital
-- 📫 Menerima Pekerjaan untuk Penginstalan atau Perbaikan Website OJS, Penginstalan Moodle/LMS/ELearning, Pembuatan Website Kampus/Sekolah/Pribadi dan Lain2
+     Pernah bekerjasama dengan STMIK Pringsewu, STIE Trisna Negara, STIT Al Mutazam,
+     STIE Lampung Timur, IBN Pringsewu, Scracademik, STEBI Tanggamus, Ruangilmudigital.com, Pondok Pesantren Al-Fattah
+- 📫 Menerima pekerjaan sebagai teman.
 
-Note: Bekerja sebakai instruktur di blk al fattah tanggamus
+Note: Bekerja sebagai instruktur di blk al fattah tanggamus saat ini dan sedang melaksanakan kuliah S2 di DARMAJAYA
